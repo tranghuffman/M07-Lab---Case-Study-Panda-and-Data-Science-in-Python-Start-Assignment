@@ -1,0 +1,20 @@
+URL,Earliest tpep_pickup,Latest tpep_pickup
+yellow_tripdata_2021-06.parquet Wednesday, 31 December 2008 Saturday, 5 May 2029
+yellow tripdata_2021-05.parquet Wednesday, 31 December 2008 Thursday, 29 July 2021
+yellow_tripdata_2021-04.parquet Thursday, 1 January 2009 Monday, 19 July 2021
+yellow_tripdata_2021-03.parquet Wednesday, 31 December 2008 Thursday, 27 May 2021
+yellow_tripdata_2021-02.parquet Wednesday, 31 December 2008 Monday, 1 March 2021
+yellow_tripdata_2021-01.parquet Wednesday, 31 December 2008 Monday, 22 February 2021
+yellow tripdata_2020-06.parquet Thursday, 1 January 2009 Wednesday, 1 July 2020
+yellow_ tripdata_2020-05.parquet Wednesday, 31 December 2008 Sunday, 1 November 2020
+yellow tripdata_2020-04.parquet Thursday, 1 January 2009 Thursday, 30 April 2020
+yellow_tripdata_2020-03.parquet Wednesday, 31 December 2008 Thursday, 27 August 2020
+yellow_tripdata_2020-02.parquet Wednesday, 31 December 2008 Saturday, 11 July 2020
+yellow_tripdata_2020-01.parquet Wednesday, 1 January 2003 Saturday, 2 January 2021
+yellow_tripdata_2019-06.parquet Monday, 1 January 2001 Wednesday, 30 October 2019
+yellow tripdata_2019-05.parquet Monday, 1 January 2001 Friday, 3 January 2020
+yellow_tripdata_2019-04.parquet Friday, 8 August 2008 Wednesday, 27 April 2033
+yellow tripdata_2019-03.parquet Tuesday, 31 December 2002 Monday, 25 March 2041
+yellow_tripdata_2019-02.parquet Wednesday, 31 December 2008 Wednesday, 17 February 2038
+yellow_tripdata_2019-01.parquet Friday, 2 February 2001 Saturday, 24 January 2088
+yellow_tripdata_2018-12.parquet Tuesday, 23 December 2003 Thursday, 10 December 202
